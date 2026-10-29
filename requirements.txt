@@ -1,0 +1,17 @@
+torch>=2.3
+transformers>=4.44
+sentence-transformers>=3.0
+numpy
+pandas>=2.2
+pyarrow
+scipy
+scikit-learn>=1.4
+lightgbm>=4.3
+networkx
+matplotlib
+pymupdf
+razdel
+nltk
+rouge-score
+sacrebleu>=2.4
+bert-score

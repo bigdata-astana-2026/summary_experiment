@@ -1,0 +1,10 @@
+# full texts are copyrighted by the journals: never commit them
+data/corpus.jsonl
+data/dataset.jsonl
+data/emb/
+data/tei/
+*.pdf
+.venv/
+__pycache__/
+*.pyc
+pilot_out/
